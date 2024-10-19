@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Basic Calculator</string>
+
+    <!-- UI Strings -->
+    <string name="title">Basic Calculator</string>
+    <string name="hint_first_number">Enter First Number</string>
+    <string name="hint_second_number">Enter Second Number</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="reset">Reset</string>
+    <string name="result_hint">Result</string>
+    <string name="basic_calculator">Basic Calculator</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+
+</resources>
